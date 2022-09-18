@@ -1,0 +1,392 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<?import javafx.geometry.Insets?>
+<?import javafx.scene.control.*?>
+<?import javafx.scene.layout.*?>
+<?import javafx.scene.text.*?>
+
+
+
+
+<BorderPane xmlns="http://javafx.com/javafx/8.0.171"
+	xmlns:fx="http://javafx.com/fxml/1">
+	<center>
+		<VBox alignment="TOP_CENTER" BorderPane.alignment="CENTER">
+			<children>
+				<Text strokeType="OUTSIDE" strokeWidth="0.0" text="Starters">
+					<VBox.margin>
+						<Insets top="5.0" />
+					</VBox.margin>
+				</Text>
+				<ButtonBar>
+					<buttons>
+						<Text strokeType="OUTSIDE" strokeWidth="0.0"
+							text="Tortilla Chips &amp; Dips (V)"
+							wrappingWidth="223.93670654296875">
+							<font>
+								<Font size="20.0" />
+							</font>
+						</Text>
+						<ToolBar>
+							<items>
+								<Button mnemonicParsing="false" text="Details" />
+								<Button minWidth="19.0" mnemonicParsing="false"
+									prefHeight="15.0" text="-" />
+								<Text strokeType="OUTSIDE" strokeWidth="0.0" text="0" />
+								<Button mnemonicParsing="false" text="+" />
+							</items>
+						</ToolBar>
+					</buttons>
+					<VBox.margin>
+						<Insets left="5.0" right="5.0" />
+					</VBox.margin>
+				</ButtonBar>
+				<ButtonBar>
+					<buttons>
+						<Text strokeType="OUTSIDE" strokeWidth="0.0"
+							text="Tortilla Chips &amp; Dips (V)"
+							wrappingWidth="223.93670654296875">
+							<font>
+								<Font size="20.0" />
+							</font>
+						</Text>
+						<ToolBar>
+							<items>
+								<Button mnemonicParsing="false" text="Details" />
+								<Button minWidth="19.0" mnemonicParsing="false"
+									prefHeight="15.0" text="-" />
+								<Text strokeType="OUTSIDE" strokeWidth="0.0" text="0" />
+								<Button mnemonicParsing="false" text="+" />
+							</items>
+						</ToolBar>
+					</buttons>
+					<VBox.margin>
+						<Insets left="5.0" right="5.0" />
+					</VBox.margin>
+				</ButtonBar>
+				<ButtonBar>
+					<buttons>
+						<Text strokeType="OUTSIDE" strokeWidth="0.0"
+							text="Tortilla Chips &amp; Dips (V)"
+							wrappingWidth="223.93670654296875">
+							<font>
+								<Font size="20.0" />
+							</font>
+						</Text>
+						<ToolBar>
+							<items>
+								<Button mnemonicParsing="false" text="Details" />
+								<Button minWidth="19.0" mnemonicParsing="false"
+									prefHeight="15.0" text="-" />
+								<Text strokeType="OUTSIDE" strokeWidth="0.0" text="0" />
+								<Button mnemonicParsing="false" text="+" />
+							</items>
+						</ToolBar>
+					</buttons>
+					<VBox.margin>
+						<Insets left="5.0" right="5.0" />
+					</VBox.margin>
+				</ButtonBar>
+				<Text strokeType="OUTSIDE" strokeWidth="0.0" text="Mains">
+					<VBox.margin>
+						<Insets top="5.0" />
+					</VBox.margin>
+				</Text>
+				<ButtonBar>
+					<buttons>
+						<Text strokeType="OUTSIDE" strokeWidth="0.0"
+							text="Tortilla Chips &amp; Dips (V)"
+							wrappingWidth="223.93670654296875">
+							<font>
+								<Font size="20.0" />
+							</font>
+						</Text>
+						<ToolBar>
+							<items>
+								<Button mnemonicParsing="false" text="Details" />
+								<Button minWidth="19.0" mnemonicParsing="false"
+									prefHeight="15.0" text="-" />
+								<Text strokeType="OUTSIDE" strokeWidth="0.0" text="0" />
+								<Button mnemonicParsing="false" text="+" />
+							</items>
+						</ToolBar>
+					</buttons>
+					<VBox.margin>
+						<Insets left="5.0" right="5.0" />
+					</VBox.margin>
+				</ButtonBar>
+				<ButtonBar>
+					<buttons>
+						<Text strokeType="OUTSIDE" strokeWidth="0.0"
+							text="Tortilla Chips &amp; Dips (V)"
+							wrappingWidth="223.93670654296875">
+							<font>
+								<Font size="20.0" />
+							</font>
+						</Text>
+						<ToolBar>
+							<items>
+								<Button mnemonicParsing="false" text="Details" />
+								<Button minWidth="19.0" mnemonicParsing="false"
+									prefHeight="15.0" text="-" />
+								<Text strokeType="OUTSIDE" strokeWidth="0.0" text="0" />
+								<Button mnemonicParsing="false" text="+" />
+							</items>
+						</ToolBar>
+					</buttons>
+					<VBox.margin>
+						<Insets left="5.0" right="5.0" />
+					</VBox.margin>
+				</ButtonBar>
+				<ButtonBar>
+					<buttons>
+						<Text strokeType="OUTSIDE" strokeWidth="0.0"
+							text="Tortilla Chips &amp; Dips (V)"
+							wrappingWidth="223.93670654296875">
+							<font>
+								<Font size="20.0" />
+							</font>
+						</Text>
+						<ToolBar>
+							<items>
+								<Button mnemonicParsing="false" text="Details" />
+								<Button minWidth="19.0" mnemonicParsing="false"
+									prefHeight="15.0" text="-" />
+								<Text strokeType="OUTSIDE" strokeWidth="0.0" text="0" />
+								<Button mnemonicParsing="false" text="+" />
+							</items>
+						</ToolBar>
+					</buttons>
+					<VBox.margin>
+						<Insets left="5.0" right="5.0" />
+					</VBox.margin>
+				</ButtonBar>
+				<Text strokeType="OUTSIDE" strokeWidth="0.0" text="Desserts">
+					<VBox.margin>
+						<Insets top="5.0" />
+					</VBox.margin>
+				</Text>
+				<ButtonBar>
+					<buttons>
+						<Text strokeType="OUTSIDE" strokeWidth="0.0"
+							text="Tortilla Chips &amp; Dips (V)"
+							wrappingWidth="223.93670654296875">
+							<font>
+								<Font size="20.0" />
+							</font>
+						</Text>
+						<ToolBar>
+							<items>
+								<Button mnemonicParsing="false" text="Details" />
+								<Button minWidth="19.0" mnemonicParsing="false"
+									prefHeight="15.0" text="-" />
+								<Text strokeType="OUTSIDE" strokeWidth="0.0" text="0" />
+								<Button mnemonicParsing="false" text="+" />
+							</items>
+						</ToolBar>
+					</buttons>
+					<VBox.margin>
+						<Insets left="5.0" right="5.0" />
+					</VBox.margin>
+				</ButtonBar>
+				<ButtonBar>
+					<buttons>
+						<Text strokeType="OUTSIDE" strokeWidth="0.0"
+							text="Tortilla Chips &amp; Dips (V)"
+							wrappingWidth="223.93670654296875">
+							<font>
+								<Font size="20.0" />
+							</font>
+						</Text>
+						<ToolBar>
+							<items>
+								<Button mnemonicParsing="false" text="Details" />
+								<Button minWidth="19.0" mnemonicParsing="false"
+									prefHeight="15.0" text="-" />
+								<Text strokeType="OUTSIDE" strokeWidth="0.0" text="0" />
+								<Button mnemonicParsing="false" text="+" />
+							</items>
+						</ToolBar>
+					</buttons>
+					<VBox.margin>
+						<Insets left="5.0" right="5.0" />
+					</VBox.margin>
+				</ButtonBar>
+				<ButtonBar>
+					<buttons>
+						<Text strokeType="OUTSIDE" strokeWidth="0.0"
+							text="Tortilla Chips &amp; Dips (V)"
+							wrappingWidth="223.93670654296875">
+							<font>
+								<Font size="20.0" />
+							</font>
+						</Text>
+						<ToolBar>
+							<items>
+								<Button mnemonicParsing="false" text="Details" />
+								<Button minWidth="19.0" mnemonicParsing="false"
+									prefHeight="15.0" text="-" />
+								<Text strokeType="OUTSIDE" strokeWidth="0.0" text="0" />
+								<Button mnemonicParsing="false" text="+" />
+							</items>
+						</ToolBar>
+					</buttons>
+					<VBox.margin>
+						<Insets left="5.0" right="5.0" />
+					</VBox.margin>
+				</ButtonBar>
+				<Text strokeType="OUTSIDE" strokeWidth="0.0" text="Drinks">
+					<VBox.margin>
+						<Insets top="5.0" />
+					</VBox.margin>
+				</Text>
+				<ButtonBar>
+					<buttons>
+						<Text strokeType="OUTSIDE" strokeWidth="0.0"
+							text="Tortilla Chips &amp; Dips (V)"
+							wrappingWidth="223.93670654296875">
+							<font>
+								<Font size="20.0" />
+							</font>
+						</Text>
+						<ToolBar>
+							<items>
+								<Button mnemonicParsing="false" text="Details" />
+								<Button minWidth="19.0" mnemonicParsing="false"
+									prefHeight="15.0" text="-" />
+								<Text strokeType="OUTSIDE" strokeWidth="0.0" text="0" />
+								<Button mnemonicParsing="false" text="+" />
+							</items>
+						</ToolBar>
+					</buttons>
+					<VBox.margin>
+						<Insets left="5.0" right="5.0" />
+					</VBox.margin>
+				</ButtonBar>
+				<ButtonBar>
+					<buttons>
+						<Text strokeType="OUTSIDE" strokeWidth="0.0"
+							text="Tortilla Chips &amp; Dips (V)"
+							wrappingWidth="223.93670654296875">
+							<font>
+								<Font size="20.0" />
+							</font>
+						</Text>
+						<ToolBar>
+							<items>
+								<Button mnemonicParsing="false" text="Details" />
+								<Button minWidth="19.0" mnemonicParsing="false"
+									prefHeight="15.0" text="-" />
+								<Text strokeType="OUTSIDE" strokeWidth="0.0" text="0" />
+								<Button mnemonicParsing="false" text="+" />
+							</items>
+						</ToolBar>
+					</buttons>
+					<VBox.margin>
+						<Insets left="5.0" right="5.0" />
+					</VBox.margin>
+				</ButtonBar>
+				<ButtonBar>
+					<buttons>
+						<Text strokeType="OUTSIDE" strokeWidth="0.0"
+							text="Tortilla Chips &amp; Dips (V)"
+							wrappingWidth="223.93670654296875">
+							<font>
+								<Font size="20.0" />
+							</font>
+						</Text>
+						<ToolBar>
+							<items>
+								<Button mnemonicParsing="false" text="Details" />
+								<Button minWidth="19.0" mnemonicParsing="false"
+									prefHeight="15.0" text="-" />
+								<Text strokeType="OUTSIDE" strokeWidth="0.0" text="0" />
+								<Button mnemonicParsing="false" text="+" />
+							</items>
+						</ToolBar>
+					</buttons>
+					<VBox.margin>
+						<Insets left="5.0" right="5.0" />
+					</VBox.margin>
+				</ButtonBar>
+				<ButtonBar>
+					<buttons>
+						<Text strokeType="OUTSIDE" strokeWidth="0.0"
+							text="Tortilla Chips &amp; Dips (V)"
+							wrappingWidth="223.93670654296875">
+							<font>
+								<Font size="20.0" />
+							</font>
+						</Text>
+						<ToolBar>
+							<items>
+								<Button mnemonicParsing="false" text="Details" />
+								<Button minWidth="19.0" mnemonicParsing="false"
+									prefHeight="15.0" text="-" />
+								<Text strokeType="OUTSIDE" strokeWidth="0.0" text="0" />
+								<Button mnemonicParsing="false" text="+" />
+							</items>
+						</ToolBar>
+					</buttons>
+					<VBox.margin>
+						<Insets left="5.0" right="5.0" />
+					</VBox.margin>
+				</ButtonBar>
+			</children>
+		</VBox>
+	</center>
+	<top>
+		<BorderPane BorderPane.alignment="CENTER">
+			<center>
+				<Text strokeType="OUTSIDE" strokeWidth="0.0" text="OAXACO"
+					BorderPane.alignment="CENTER">
+					<font>
+						<Font name="Elephant" size="43.0" />
+					</font>
+				</Text>
+			</center>
+			<bottom>
+				<BorderPane BorderPane.alignment="TOP_CENTER">
+					<center>
+						<Text strokeType="OUTSIDE" strokeWidth="0.0"
+							text="Mexican Restaurant">
+							<font>
+								<Font name="System Bold Italic" size="15.0" />
+							</font>
+						</Text>
+					</center>
+					<right>
+						<Button mnemonicParsing="false" text="Staff Login"
+							BorderPane.alignment="CENTER" />
+					</right>
+					<left>
+						<Button mnemonicParsing="false" text="Call A Server"
+							BorderPane.alignment="CENTER" />
+					</left>
+				</BorderPane>
+			</bottom>
+			<padding>
+				<Insets bottom="5.0" left="5.0" right="5.0" top="5.0" />
+			</padding>
+		</BorderPane>
+	</top>
+	<bottom>
+		<ButtonBar BorderPane.alignment="CENTER">
+			<buttons>
+				<Button alignment="CENTER" mnemonicParsing="false"
+					prefHeight="25.0" prefWidth="366.0" text="Go to Basket"
+					textAlignment="CENTER">
+					<font>
+						<Font size="14.0" />
+					</font>
+				</Button>
+			</buttons>
+			<padding>
+				<Insets bottom="10.0" left="10.0" right="10.0" top="10.0" />
+			</padding>
+			<BorderPane.margin>
+				<Insets left="5.0" right="5.0" />
+			</BorderPane.margin>
+		</ButtonBar>
+	</bottom>
+</BorderPane>

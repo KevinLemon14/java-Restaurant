@@ -1,0 +1,92 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<?import javafx.scene.control.CheckBox?>
+<?import javafx.scene.control.TextField?>
+<?import javafx.scene.layout.Pane?>
+<?import javafx.scene.shape.Line?>
+<?import javafx.scene.text.Font?>
+<?import javafx.scene.text.Text?>
+
+
+<Pane maxHeight="-Infinity" maxWidth="-Infinity" minHeight="-Infinity" minWidth="-Infinity" prefHeight="808.0" prefWidth="1053.0" xmlns="http://javafx.com/javafx/8.0.171" xmlns:fx="http://javafx.com/fxml/1">
+   <children>
+      <Text layoutX="443.0" layoutY="46.0" strokeType="OUTSIDE" strokeWidth="0.0" text="Oaxaco" wrappingWidth="167.6708984375">
+         <font>
+            <Font name="Elephant" size="43.0" />
+         </font>
+      </Text>
+      <Text layoutX="450.0" layoutY="73.0" strokeType="OUTSIDE" strokeWidth="0.0" text="Mexican Restaurant" wrappingWidth="167.67089380323887">
+         <font>
+            <Font name="System Bold Italic" size="15.0" />
+         </font>
+      </Text>
+      <Text layoutX="104.0" layoutY="114.0" strokeType="OUTSIDE" strokeWidth="0.0" text="Starter">
+         <font>
+            <Font name="Rockwell Bold" size="20.0" />
+         </font>
+      </Text>
+      <Text layoutX="742.0" layoutY="114.0" strokeType="OUTSIDE" strokeWidth="0.0" text="Main" wrappingWidth="56.403814762830734">
+         <font>
+            <Font name="Rockwell Bold" size="20.0" />
+         </font>
+      </Text>
+      <Text layoutX="99.0" layoutY="477.0" strokeType="OUTSIDE" strokeWidth="0.0" text="Dessert">
+         <font>
+            <Font name="Rockwell Bold" size="20.0" />
+         </font>
+      </Text>
+      <Text layoutX="736.0" layoutY="477.0" strokeType="OUTSIDE" strokeWidth="0.0" text="Drinks">
+         <font>
+            <Font name="Rockwell Bold" size="20.0" />
+         </font>
+      </Text>
+      <TextField layoutX="61.0" layoutY="170.0" text="Tortilla Chips &amp; Dips (V)" />
+      <TextField layoutX="61.0" layoutY="245.0" text="BBQ Chicken Wings" />
+      <TextField layoutX="61.0" layoutY="318.0" text="Cassava Fries (VG)" />
+      <TextField layoutX="677.0" layoutY="170.0" text="Vegan Enchiladas (VG)" />
+      <TextField layoutX="677.0" layoutY="245.0" text="Paella" />
+      <TextField layoutX="677.0" layoutY="329.0" prefHeight="40.0" prefWidth="270.0" text="Barbacoa Beef And Chimichurri Torta" />
+      <TextField layoutX="61.0" layoutY="500.0" text="Churros (V)" />
+      <TextField layoutX="57.0" layoutY="573.0" prefHeight="31.0" prefWidth="194.0" text="Vegan Mexican Mess (VG)" />
+      <TextField layoutX="55.0" layoutY="670.0" prefHeight="31.0" prefWidth="228.0" text="Golden Nugget Cheesecake (V)" />
+      <TextField layoutX="677.0" layoutY="500.0" text="Cocktails (V)" />
+      <TextField layoutX="676.0" layoutY="573.0" text="Margaritas (V)" />
+      <TextField layoutX="677.0" layoutY="647.0" text="Cold Drinks (VG)" />
+      <TextField layoutX="676.0" layoutY="718.0" text="Water (VG)" />
+      <Text layoutX="387.0" layoutY="191.0" strokeType="OUTSIDE" strokeWidth="0.0" text="£2.99" />
+      <Text layoutX="387.0" layoutY="266.0" strokeType="OUTSIDE" strokeWidth="0.0" text="£5.79" />
+      <Text layoutX="387.0" layoutY="339.0" strokeType="OUTSIDE" strokeWidth="0.0" text="£6.49" />
+      <Text layoutX="982.0" layoutY="191.0" strokeType="OUTSIDE" strokeWidth="0.0" text="£11.99" />
+      <Text layoutX="982.0" layoutY="266.0" strokeType="OUTSIDE" strokeWidth="0.0" text="£13.00" />
+      <Text layoutX="982.0" layoutY="355.0" strokeType="OUTSIDE" strokeWidth="0.0" text="£12.00" />
+      <Text layoutX="387.0" layoutY="521.0" strokeType="OUTSIDE" strokeWidth="0.0" text="£4.49" />
+      <Text layoutX="387.0" layoutY="594.0" strokeType="OUTSIDE" strokeWidth="0.0" text="£6.99" />
+      <Text layoutX="387.0" layoutY="691.0" strokeType="OUTSIDE" strokeWidth="0.0" text="£5.79" />
+      <Text layoutX="982.0" layoutY="521.0" strokeType="OUTSIDE" strokeWidth="0.0" text="£5.00" />
+      <Text layoutX="982.0" layoutY="594.0" strokeType="OUTSIDE" strokeWidth="0.0" text="£5.00" />
+      <Text layoutX="982.0" layoutY="668.0" strokeType="OUTSIDE" strokeWidth="0.0" text="£2.00" />
+      <Text layoutX="982.0" layoutY="739.0" strokeType="OUTSIDE" strokeWidth="0.0" text="£1.50" />
+      <Line endY="539.5986328125" layoutX="527.0" layoutY="245.0" startY="-153.4013671875" />
+      <Line endX="904.0" layoutX="131.0" layoutY="438.0" startX="-100.0" />
+      <Text layoutX="737.0" layoutY="20.0" strokeType="OUTSIDE" strokeWidth="0.0" text="Keys: " underline="true" wrappingWidth="205.6708984375">
+         <font>
+            <Font name="System Bold Italic" size="20.0" />
+         </font>
+      </Text>
+      <Text layoutX="736.0" layoutY="47.0" strokeType="OUTSIDE" strokeWidth="0.0" text="(V) = Vegetarian " />
+      <Text layoutX="892.0" layoutY="47.0" strokeType="OUTSIDE" strokeWidth="0.0" text="(VG) = Vegan" />
+      <CheckBox layoutX="144.0" layoutY="212.0" mnemonicParsing="false" text="Add Item" />
+      <CheckBox layoutX="144.0" layoutY="287.0" mnemonicParsing="false" text="Add Item" />
+      <CheckBox layoutX="144.0" layoutY="359.0" mnemonicParsing="false" text="Add Item" />
+      <CheckBox layoutX="767.0" layoutY="212.0" mnemonicParsing="false" text="Add Item" />
+      <CheckBox layoutX="767.0" layoutY="287.0" mnemonicParsing="false" text="Add Item" />
+      <CheckBox layoutX="767.0" layoutY="380.0" mnemonicParsing="false" text="Add Item" />
+      <CheckBox layoutX="144.0" layoutY="542.0" mnemonicParsing="false" text="Add Item" />
+      <CheckBox layoutX="144.0" layoutY="615.0" mnemonicParsing="false" text="Add Item" />
+      <CheckBox layoutX="144.0" layoutY="713.0" mnemonicParsing="false" text="Add Item" />
+      <CheckBox layoutX="753.0" layoutY="542.0" mnemonicParsing="false" text="Add Item" />
+      <CheckBox layoutX="753.0" layoutY="615.0" mnemonicParsing="false" text="Add Item" />
+      <CheckBox layoutX="753.0" layoutY="684.0" mnemonicParsing="false" text="Add Item" />
+      <CheckBox layoutX="753.0" layoutY="756.0" mnemonicParsing="false" text="Add Item" />
+   </children>
+</Pane>

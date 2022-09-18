@@ -1,0 +1,14 @@
+Menu
+-Name: string
+-Stock Level: int
+-Price: double
+-Type: string
+Customer
+-Table Number: int
+-readyToOrder(): boolean
+-callServer(): boolean
+Server
+Kitchen Staff
+-readyToServe(): boolean
+Total Price
+Basket
